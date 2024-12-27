@@ -3,9 +3,6 @@
 mini project ToDoList.
 
 
-![viewfinal](https://github.com/user-attachments/assets/9e320e92-bc35-4eae-a029-888a701ec158)
-
-
 ![viewfinal](https://github.com/user-attachments/assets/b3b424d4-c83c-49e7-acf6-dc57de4f9f08)
 
 
@@ -13,6 +10,9 @@ mini project ToDoList.
 
 
 ![viewfinal](https://github.com/user-attachments/assets/144cfbff-c830-4352-9393-272b0d33b8a0)
+
+
+![viewfinal](https://github.com/user-attachments/assets/9e320e92-bc35-4eae-a029-888a701ec158)
 
 
 
